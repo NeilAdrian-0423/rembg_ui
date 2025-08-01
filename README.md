@@ -29,14 +29,14 @@ Built with Python's Tkinter and `tkinterdnd2` for drag-and-drop support.
 2. **Make a virtual env**
    python -m venv venv or python3 -m venv venv 
 3. **Activate virtual environment**
-   - **Windows (Command Prompt):**
+   - **Windows (Command Prompt/Powershell):**
    ```cmd
    .\venv\Scripts\activate
    ```
    - **Linux:**
     ```bash
     source venv/bin/activate
-    
+
 3. **Install dependencies**
    pip install rembg pillow tkinterdnd2
 
