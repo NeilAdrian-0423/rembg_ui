@@ -39,9 +39,10 @@ Built with Python's Tkinter and `tkinterdnd2` for drag-and-drop support.
     ```bash
     source venv/bin/activate
 
-3. **Install dependencies**
-   pip install rembg pillow tkinterdnd2
-
+4. **Install dependencies**
+   ```cmd
+      pip install rembg pillow tkinterdnd2
+   ```
 
 ## Run
 
