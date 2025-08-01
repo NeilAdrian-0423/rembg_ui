@@ -28,6 +28,7 @@ Built with Python's Tkinter and `tkinterdnd2` for drag-and-drop support.
    cd rembg-gui
 2. **Make a virtual env**
    python -m venv venv or python3 -m venv venv 
+3. **Activate virtual environment**
     Windows: .\venv\Scripts\activate
     Linux: source venv/bin/activate
 
