@@ -27,9 +27,9 @@ Built with Python's Tkinter and `tkinterdnd2` for drag-and-drop support.
    git clone https://github.com/NeilAdrian-0423/rembg_ui.git
    cd rembg-gui
 2. **Make a virtual env**
-```bash
+   ```bash
    python -m venv venv or python3 -m venv venv 
-```
+   ```
 3. **Activate virtual environment**
    - **Windows (Command Prompt/Powershell):**
    ```cmd
@@ -41,9 +41,10 @@ Built with Python's Tkinter and `tkinterdnd2` for drag-and-drop support.
 
 4. **Install dependencies**
    ```cmd
-      pip install rembg pillow tkinterdnd2
+   pip install rembg pillow tkinterdnd2
    ```
 
 ## Run
-
+```cmd
 python rembg_gui.py or python3 rembg_gui.py
+```
