@@ -24,7 +24,7 @@ Built with Python's Tkinter and `tkinterdnd2` for drag-and-drop support.
 
 1. **Clone or download this repository**  
    ```bash
-   git clone https://github.com/your-username/rembg-gui.git
+   git clone https://github.com/NeilAdrian-0423/rembg_ui.git
    cd rembg-gui
 2. **Make a virtual env**
 ```bash
